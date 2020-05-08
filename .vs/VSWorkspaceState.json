@@ -1,7 +1,10 @@
 {
   "ExpandedNodes": [
     "",
-    "\\Hello-World-Project"
+    "\\Hello-World-Project",
+    "\\Hello-World-Project\\Hello-World-Project",
+    "\\Hello-World-Project\\Input-Datatypes-Output"
   ],
+  "SelectedNode": "\\Hello-World-Project\\Input-Datatypes-Output\\main.cpp",
   "PreviewInSolutionExplorer": false
 }
