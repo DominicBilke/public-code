@@ -1,6 +1,20 @@
+//
+//  main.cpp
+//  HalloWelt
+//
+//  Created by Dominic Bilke on 08.05.20.
+//  Copyright © 2020 Dominic Bilke. All rights reserved.
+//
+
 #include <iostream>
 
+using namespace std;
+
 int main(int argc, const char* argv[]) {
-	std::cout << "Hello World!\n";
+
+	cout << "Hello World!" << endl;
+
+	system("pause");
+
 	return 0;
 }
