@@ -4,6 +4,10 @@
 //  Created by Dominic Bilke on 09.05.20.
 //  Copyright © 2020 Dominic Bilke. All rights reserved.
 //
+//  Alter eingeben
+//    - Ausgabe auf Volljährigkeit und Alkohol-Erlaubnis
+//    - Hochzählen bis volljährig
+//
 
 #include <iostream>
 

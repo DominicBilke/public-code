@@ -5,6 +5,11 @@
 //  Created by Dominic Bilke on 08.05.20.
 //  Copyright © 2020 Dominic Bilke. All rights reserved.
 //
+//  Datentypen
+//     - Eingabe, Ausgabe
+//     - sizeOf
+//     - string, char, long, short, double, int
+//     - Wertebereich
 
 #include <iostream>
 #include <string>

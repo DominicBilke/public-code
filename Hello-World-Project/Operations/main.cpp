@@ -4,6 +4,11 @@
 //  Created by Dominic Bilke on 09.05.20.
 //  Copyright © 2020 Dominic Bilke. All rights reserved.
 //
+// Übung zu Rechenoperationen.
+//   - Operationen (Division, Plus)
+//   - Rechnen mit ganzen und gebrochenen Zahlen
+//   - Wahrheitswerte (bool, Wahrheitstabelle)
+//
 
 #include <iostream>
 
