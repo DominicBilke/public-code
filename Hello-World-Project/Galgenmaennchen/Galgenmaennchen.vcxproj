@@ -20,7 +20,7 @@
   </ItemGroup>
   <PropertyGroup Label="Globals">
     <VCProjectVersion>16.0</VCProjectVersion>
-    <ProjectGuid>{9C19C1FB-7EE0-4C35-A60B-22043E832A28}</ProjectGuid>
+    <ProjectGuid>{45681298-9780-4DE3-90DC-513B1BCC5831}</ProjectGuid>
     <Keyword>Win32Proj</Keyword>
     <RootNamespace>Galgenmaennchen</RootNamespace>
     <WindowsTargetPlatformVersion>10.0</WindowsTargetPlatformVersion>
