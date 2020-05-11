@@ -1,4 +1,4 @@
 ﻿  main.cpp
-C:\Users\Admin\source\repos\DominicBilke\public-code\Hello-World-Project\Galgenmaennchen\main.cpp(26,20): warning C4018: "<": Konflikt zwischen "signed" und "unsigned"
-C:\Users\Admin\source\repos\DominicBilke\public-code\Hello-World-Project\Galgenmaennchen\main.cpp(39,24): warning C4018: "<": Konflikt zwischen "signed" und "unsigned"
+C:\Users\Admin\Source\Repos\DominicBilke\public-code\Hello-World-Project\Galgenmaennchen\main.cpp(26,20): warning C4018: "<": Konflikt zwischen "signed" und "unsigned"
+C:\Users\Admin\Source\Repos\DominicBilke\public-code\Hello-World-Project\Galgenmaennchen\main.cpp(39,24): warning C4018: "<": Konflikt zwischen "signed" und "unsigned"
   Galgenmaennchen.vcxproj -> C:\Users\Admin\Source\Repos\DominicBilke\public-code\Hello-World-Project\Debug\Galgenmaennchen.exe
