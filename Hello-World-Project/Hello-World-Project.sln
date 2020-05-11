@@ -17,6 +17,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Strings", "Strings-IO\Strin
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Galgenmaennchen", "Galgenmaennchen\Galgenmaennchen.vcxproj", "{45681298-9780-4DE3-90DC-513B1BCC5831}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Functions", "Functions\Functions.vcxproj", "{D6F2DC16-64F5-44E8-B031-5B02B97AC7E4}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -81,6 +83,14 @@ Global
 		{45681298-9780-4DE3-90DC-513B1BCC5831}.Release|x64.Build.0 = Release|x64
 		{45681298-9780-4DE3-90DC-513B1BCC5831}.Release|x86.ActiveCfg = Release|Win32
 		{45681298-9780-4DE3-90DC-513B1BCC5831}.Release|x86.Build.0 = Release|Win32
+		{D6F2DC16-64F5-44E8-B031-5B02B97AC7E4}.Debug|x64.ActiveCfg = Debug|x64
+		{D6F2DC16-64F5-44E8-B031-5B02B97AC7E4}.Debug|x64.Build.0 = Debug|x64
+		{D6F2DC16-64F5-44E8-B031-5B02B97AC7E4}.Debug|x86.ActiveCfg = Debug|Win32
+		{D6F2DC16-64F5-44E8-B031-5B02B97AC7E4}.Debug|x86.Build.0 = Debug|Win32
+		{D6F2DC16-64F5-44E8-B031-5B02B97AC7E4}.Release|x64.ActiveCfg = Release|x64
+		{D6F2DC16-64F5-44E8-B031-5B02B97AC7E4}.Release|x64.Build.0 = Release|x64
+		{D6F2DC16-64F5-44E8-B031-5B02B97AC7E4}.Release|x86.ActiveCfg = Release|Win32
+		{D6F2DC16-64F5-44E8-B031-5B02B97AC7E4}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
