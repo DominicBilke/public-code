@@ -1,2 +1,3 @@
-﻿  main.cpp
-  Controls.vcxproj -> C:\Users\Admin\Source\Repos\DominicBilke\public-code\Hello-World-Project\Debug\Controls.exe
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(467,5): warning MSB8028: Das Zwischenverzeichnis (Debug\) enthält freigegebene Dateien aus einem anderen Projekt (Controls.vcxproj). Dies kann zu einem falschen Bereinigungs- und Neuerstellungsverhalten führen.
+  main.cpp
+  Controls.vcxproj -> C:\Users\Admin\Source\Repos\DominicBilke\public-code\Hello-World-Project\Debug\Controlstructures.exe
