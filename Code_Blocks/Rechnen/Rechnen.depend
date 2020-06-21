@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1592738901 source:c:\users\admin\onedrive\dokumente\git-repository\public-code\code_blocks\rechnen\main.c
+	<stdio.h>
+	<stdlib.h>
+

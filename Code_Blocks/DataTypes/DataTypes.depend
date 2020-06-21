@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1592737947 source:c:\users\admin\onedrive\dokumente\git-repository\public-code\code_blocks\datatypes\main.c
+	<stdio.h>
+	<stdlib.h>
+	<limits.h>
+
