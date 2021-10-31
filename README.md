@@ -1,5 +1,5 @@
 # public-code
-Öffentliches Code-Verzeichnis von Dominic Bilke.
+<a href="https://github.com/DominicBilke/public-code">Öffentliches Code-Verzeichnis von Dominic Bilke.</a>
 
 <a href="https://github.com/DominicBilke/public-code">Projects:
 1. Arduino-Scripts
