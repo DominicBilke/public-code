@@ -1,4 +1,4 @@
-<a href="https://github.com/DominicBilke/public-code"># public-code</a>
+# <a href="https://github.com/DominicBilke/public-code">public-code</a>
 <a href="https://github.com/DominicBilke/public-code">Öffentliches Code-Verzeichnis von Dominic Bilke.</a>
 
 Projects:
