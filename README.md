@@ -1,7 +1,7 @@
 # public-code
 Öffentliches Code-Verzeichnis von Dominic Bilke.
 
-Proejcts:
+Projects:
 1. <a href="Arduino">Arduino-Scripts</a>
 2. <a href="Code_Blocks">Code-Block-Scripts</a>
 3. <a href="HTML">HTML-Scripts</a>
