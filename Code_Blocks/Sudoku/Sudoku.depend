@@ -1,0 +1,38 @@
+# depslib dependency file v1.0
+1644764529 source:c:\users\user\onedrive\dokumente\git-repository\public-code\code_blocks\sudoku\main.cpp
+	<iostream>
+	<stdio.h>
+	<stdlib.h>
+	"Sudoku.h"
+
+1645180640 c:\users\user\onedrive\dokumente\git-repository\public-code\code_blocks\sudoku\include\sudoku.h
+	<list>
+	<map>
+	<utility>
+	<string>
+	<fstream>
+	<array>
+	<iterator>
+	<algorithm>
+	<iostream>
+	"Constraint.h"
+	"CSP.h"
+
+1645180413 source:c:\users\user\onedrive\dokumente\git-repository\public-code\code_blocks\sudoku\src\sudoku.cpp
+	"Sudoku.h"
+
+1645094173 source:c:\users\user\onedrive\dokumente\git-repository\public-code\code_blocks\sudoku\src\csp.cpp
+	"CSP.h"
+
+1645180770 c:\users\user\onedrive\dokumente\git-repository\public-code\code_blocks\sudoku\include\csp.h
+	<list>
+	<map>
+	<array>
+	"Constraint.h"
+
+1645180640 c:\users\user\onedrive\dokumente\git-repository\public-code\code_blocks\sudoku\include\constraint.h
+	<map>
+
+1645180382 source:c:\users\user\onedrive\dokumente\git-repository\public-code\code_blocks\sudoku\src\constraint.cpp
+	"Constraint.h"
+

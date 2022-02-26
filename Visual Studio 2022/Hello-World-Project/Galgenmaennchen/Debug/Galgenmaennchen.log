@@ -1,0 +1,4 @@
+﻿  main.cpp
+C:\Users\User\OneDrive\Dokumente\Git-Repository\public-code\Visual Studio 2019\Hello-World-Project\Galgenmaennchen\main.cpp(26,20): warning C4018: "<": Konflikt zwischen "signed" und "unsigned"
+C:\Users\User\OneDrive\Dokumente\Git-Repository\public-code\Visual Studio 2019\Hello-World-Project\Galgenmaennchen\main.cpp(39,24): warning C4018: "<": Konflikt zwischen "signed" und "unsigned"
+  Galgenmaennchen.vcxproj -> C:\Users\User\OneDrive\Dokumente\Git-Repository\public-code\Visual Studio 2019\Hello-World-Project\Debug\Galgenmaennchen.exe

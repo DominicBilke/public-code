@@ -1,0 +1,40 @@
+import socket
+import sys
+
+if __name__ == '__main__':
+    # Host von Kommandozeilem sonst localhost
+    host = "localhost"
+    if len(sys.argv) > 1:
+       host = sys.argv[1]
+    # Serververbindung
+    sock = socket.socket(
+        socket.AF_INET,
+        socket.SOCK_STREAM,
+       socket.getprotobyname("tcp")
+    )
+    ip = socket.gethostbyname(host)
+    port = 8000
+    sock.connect((ip, port))
+    print("0 Zuruecksetzen, X Beenden, Sonstige Eingabe: Info.")
+
+    # Kommunikationsschleife
+    while True:
+       line = input("> ")
+       # Je nach Eingabe Befehle an den Server senden
+       if line == "0":
+           # Zähler zurücksetzen
+           sock.send(b"reset")
+       elif line == "x" or line == "X":
+           # Beenden
+           sock.send(b"exit")
+       else:
+           # Standard: Anzahl/Datum erfragen
+           sock.send(bytes(line, "UTF-8"))
+       # Serverantwort lesenund ausgeben
+       antwort = sock.recv(1000).decode("UTF-8")
+       print("Antwort von {}: \n\n{}".format(host, antwort))
+
+       # Beenden?
+       if line == 'x' or line == 'X':
+           sock.close()
+           break
