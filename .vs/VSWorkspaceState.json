@@ -1,7 +1,15 @@
 {
   "ExpandedNodes": [
     "",
-    "\\Visual Studio 2022"
+    "\\Arduino",
+    "\\Arduino\\Arduino_Counter_Digital",
+    "\\Arduino\\Draw_SDCard_Bitmap",
+    "\\Visual Studio 2022",
+    "\\Visual Studio 2022\\Hello-World-Project",
+    "\\Visual Studio 2022\\Masseinheiten-Rechner",
+    "\\Visual Studio 2022\\Regular Expression",
+    "\\Visual Studio 2022\\Webclient",
+    "\\Visual Studio 2022\\Webserver"
   ],
   "PreviewInSolutionExplorer": false
 }
